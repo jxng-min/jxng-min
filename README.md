@@ -1,5 +1,37 @@
-### Hi there 👋
 
+<h3 align="center">
+    🎮 Game Client Developer 🕹️
+</h3>
+
+</br>
+
+<h3 align="center">
+    💻 Tech Stack 💻
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=Csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cocos2Dx Engine-000000?style=flat-square&logo=Cocos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity Engine-000000?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/CMake-000000?style=flat-square&logo=CMake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/>
+</p>
+
+<h3 align="center">
+    📲 More
+</h3>
+
+<p align="center">
+  <a href="mailto: vwmartin@naver.com" alt="navermail">
+    <img src="https://img.shields.io/badge/Naver-009630?logo=Naver&logoColor=white" />
+  </a>
+
+<a href="_blank" target="_blank">
+    <img src="https://img.shields.io/badge/-Obsidian-A45EE5?logo=Obsidian&logoColor=white" />
+</a>
+</p>
 <!--
 **Timothy-KJM/Timothy-KJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
