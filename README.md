@@ -10,23 +10,44 @@
 </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-0047AB?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-0067A3?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-A374DB?style=flat-square&logo=Csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=Rust&logoColor=black"/>
-
+    <img src="https://img.shields.io/badge/C-0047AB?style=flat-square&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-0067A3?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-A374DB?style=flat-square&logo=Csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=Rust&logoColor=black"/>
+    
 </br>
-<img src="https://img.shields.io/badge/Cocos2Dx Engine-79EDFF?style=flat-square&logo=Cocos&logoColor=black"/>
-<img src="https://img.shields.io/badge/Unity Engine-000000?style=flat-square&logo=Unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/CMake-D1180B?style=flat-square&logo=CMake&logoColor=black"/>
-
+    <img src="https://img.shields.io/badge/Cocos2Dx Engine-79EDFF?style=flat-square&logo=Cocos&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Unity Engine-000000?style=flat-square&logo=Unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CMake-D1180B?style=flat-square&logo=CMake&logoColor=black"/>
+    
 </br>
-<img src="https://img.shields.io/badge/Git-B90000?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github-FFFFFF?style=flat-square&logo=Github&logoColor=black"/>
-
+    <img src="https://img.shields.io/badge/Git-B90000?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github-FFFFFF?style=flat-square&logo=Github&logoColor=black"/>
+    
 </br>
-<img src="https://img.shields.io/badge/Discord-0047AB?style=flat-square&logo=Discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/GatherTown-6FADCF?style=flat-square&logo=GatherTown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-0047AB?style=flat-square&logo=Discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GatherTown-6FADCF?style=flat-square&logo=GatherTown&logoColor=white"/>
+</p>
+</br>
+
+<h3 align="center">
+    📖 Current Studying 📖
+</h3>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Unity Engine-000000?style=flat-square&logo=Unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenGL-99CCFF?style=flat-square&logo=OpenGL&logoColor=black"/>
+</p>
+</br>
+
+<h3 align="center">
+    🤤 Intertested in 🤤
+</h3>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bevy Engine-000000?style=flat-square&logo=Bevy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=Rust&logoColor=black"/>
 </p>
 </br>
 
