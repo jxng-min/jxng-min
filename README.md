@@ -36,7 +36,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Unity Engine-000000?style=flat-square&logo=Unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenGL-99CCFF?style=flat-square&logo=OpenGL&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=Rust&logoColor=black"/>
 </p>
 </br>
 
