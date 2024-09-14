@@ -69,7 +69,7 @@
 
 ----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timothy-KJM&show_icons=true&theme=shades-of-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxng-min&show_icons=true&theme=shades-of-purple)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vwmartin)](https://solved.ac/vwmartin/)
 </div>
 <!--
