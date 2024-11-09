@@ -69,11 +69,11 @@
 🚀 Projects 🚀
 </h3>
 
-| Period                          | Title                                             | Description                                                    | Experience             | Tech Stack                         |
+| Period                          | Title                                             | Description                                                    | Achievements             | Tech Stack                         |
 | ------------------------------- | ------------------------------------------------- | -------------------------------------------------------------- | ---------------------- | ---------------------------------- |
 | 2023.06.01 <br>~<br> 2024.02.01 | Traffickey | Unity 3D 1인칭 공포 게임 | 교내 AI/SW 대회 우수상 | C#, Unity |
-| 2024.03.12 <br>~<br> ing | SUCAT | 게임, 친구/채팅을 접목시킨 친목형 대학교 커뮤니티 서비스 | [1. 과일 피하기](https://github.com/jxng-min/Avoid-Poop)<br>[2. 총알 피하기](https://github.com/jxng-min/Dont-Shoot-Slime)<br>[3. 츄르를 찾아서](https://github.com/jxng-min/Run-For-Churu)<br>[4. 몬스터 타임어택](https://github.com/jxng-min/The-savior-of-city)<br>웹 플러그인 개발 | C#, Unity,Javascript, WebSocketSharp |
-| 2024.09.13 <br>~<br> ing | [Insomnia](https://github.com/jxng-min/Insomnia) | Unity 2D 탑다운뷰 공포 게임 | Tiled2Unity 경험, 코루틴을 이용한 오브젝트 픽셀 이동 | C#, Unity, Tiled, Tiled2Unity |
+| 2024.03.12 <br>~<br> ing | SUCAT | 게임, 친구/채팅을 접목시킨 친목형 대학교 커뮤니티 서비스<br>[1. 과일 피하기](https://github.com/jxng-min/Avoid-Poop)<br>[2. 총알 피하기](https://github.com/jxng-min/Dont-Shoot-Slime)<br>[3. 츄르를 찾아서](https://github.com/jxng-min/Run-For-Churu)<br>[4. 몬스터 타임어택](https://github.com/jxng-min/The-savior-of-city) |  | C#, Unity, Javascript |
+| 2024.09.13 <br>~<br> ing | [Insomnia](https://github.com/jxng-min/Insomnia) | Unity 2D 탑다운뷰 공포 게임 |  | C#, Unity |
 </br>
 </div>
 <!--
