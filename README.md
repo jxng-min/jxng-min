@@ -1,6 +1,6 @@
 <div align="center">
     
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jongmin&fontSize=40&fontAlign=80&fontAlignY=40&desc=@jxng-min&descAlign=83&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jongmin&fontSize=40&fontAlign=88&fontAlignY=40&desc=@jxng-min&descAlign=91&color=gradient)
 
 
 ### Tech Stack
