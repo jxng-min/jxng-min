@@ -1,8 +1,6 @@
 <div align="center">
     
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jongmin&fontSize=40&fontAlign=88&fontAlignY=40&desc=@jxng-min&descAlign=91&color=gradient)
-
-
 ### Tech Stack
 
 <img alt="C" src ="https://img.shields.io/badge/C-2699E6.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -33,4 +31,5 @@
 <br>
 </br>
 
+[![jxng-min's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxng-min)](https://github.com/jxng-min/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vwmartin)](https://solved.ac/vwmartin/)
