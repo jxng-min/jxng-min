@@ -31,5 +31,6 @@
 <br>
 </br>
 
-[![jxng-min's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxng-min)](https://github.com/jxng-min/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vwmartin)](https://solved.ac/vwmartin/)
+![mazandi.herokapp.com](https://mazandi.herokuapp.com/api?handle=vwmartin&theme=warm)
+
