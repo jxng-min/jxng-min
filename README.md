@@ -9,28 +9,17 @@
     
 <br>
 
-<img alt="Unity" src ="https://img.shields.io/badge/Unity-0E1128.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity 6-0E1128.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
 <img alt="COCOS2D-X" src ="https://img.shields.io/badge/COCOS2dX-FFBF00.svg?&style=for-the-badge&logo=Cocos&logoColor=black"/>
 
 <br>
 </br>
 
-### Current Studying
-
-<img alt="Unity" src ="https://img.shields.io/badge/Unity-0E1128.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
-<img alt="OpenGL" src ="https://img.shields.io/badge/OpenGL-4285F4?style=for-the-badge&logo=OpenGL&logoColor=white"/>
-
-<br>
-</br>
-
-### I'm Here👇
+### Information
 
 <a href="https://dolomite-coelurus-379.notion.site/PERSONAL-STATEMENT-15d7c5e83f2580749b41ee6a6d1b41cc"><img alt="Resume" src ="https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]()
 
-<br>
-</br>
+<br></br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vwmartin)](https://solved.ac/vwmartin/)
-![mazandi.herokapp.com](https://mazandi.herokuapp.com/api?handle=vwmartin&theme=warm)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=vwmartin&theme=warm)
