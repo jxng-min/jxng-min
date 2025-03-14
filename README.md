@@ -24,7 +24,7 @@
 
 ### RESUME
 
-<a href="https://dolomite-coelurus-379.notion.site/PERSONAL-STATEMENT-15d7c5e83f2580749b41ee6a6d1b41cc"><img alt="Resume" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<a href="https://jxngmin-resume.notion.site/PERSONAL-STATEMENT-15d7c5e83f2580749b41ee6a6d1b41cc?pvs=4"><img alt="Resume" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
 [![Resume](https://img.shields.io/badge/Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]()
 
 
