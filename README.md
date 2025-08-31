@@ -23,4 +23,4 @@
 ### PORTFOLIO
 
 <a href="https://jxngmin-resume.notion.site/PERSONAL-STATEMENT-15d7c5e83f2580749b41ee6a6d1b41cc?pvs=4"><img alt="PORTFOLIO" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<a href="https://jxngmin-resume.notion.site/PERSONAL-STATEMENT-15d7c5e83f2580749b41ee6a6d1b41cc?pvs=4"><img alt="PORTFOLIO" src ="https://img.shields.io/badge/Velog-4DA768.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@jxng-min/posts"><img alt="PORTFOLIO" src ="https://img.shields.io/badge/Velog-4DA768.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
